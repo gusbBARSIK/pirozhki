@@ -1,0 +1,17 @@
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\bin\Debug\net7.0\PirozhkiService_DataAccess.deps.json
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\bin\Debug\net7.0\PirozhkiService_DataAccess.runtimeconfig.json
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\bin\Debug\net7.0\PirozhkiService_DataAccess.dll
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\bin\Debug\net7.0\PirozhkiService_DataAccess.pdb
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\bin\Debug\net7.0\PirozhkiService_Models.dll
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\bin\Debug\net7.0\PirozhkiService_Models.pdb
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\PirozhkiService_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\PirozhkiService_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\PirozhkiService_DataAccess.AssemblyInfoInputs.cache
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\PirozhkiService_DataAccess.AssemblyInfo.cs
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\PirozhkiService_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\PirozhkiService_DataAccess.csproj.CopyComplete
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\PirozhkiService_DataAccess.dll
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\refint\PirozhkiService_DataAccess.dll
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\PirozhkiService_DataAccess.pdb
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\PirozhkiService_DataAccess.genruntimeconfig.cache
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\ref\PirozhkiService_DataAccess.dll

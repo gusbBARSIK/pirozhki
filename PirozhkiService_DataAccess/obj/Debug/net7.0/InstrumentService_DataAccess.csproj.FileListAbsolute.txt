@@ -1,0 +1,17 @@
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\bin\Debug\net7.0\InstrumentService_DataAccess.deps.json
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\bin\Debug\net7.0\InstrumentService_DataAccess.runtimeconfig.json
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\bin\Debug\net7.0\InstrumentService_DataAccess.dll
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\bin\Debug\net7.0\InstrumentService_DataAccess.pdb
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\bin\Debug\net7.0\InstrumentService_Models.dll
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\bin\Debug\net7.0\InstrumentService_Models.pdb
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\InstrumentService_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\InstrumentService_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\InstrumentService_DataAccess.AssemblyInfoInputs.cache
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\InstrumentService_DataAccess.AssemblyInfo.cs
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\InstrumentService_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\InstrumentService_DataAccess.csproj.CopyComplete
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\InstrumentService_DataAccess.dll
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\refint\InstrumentService_DataAccess.dll
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\InstrumentService_DataAccess.pdb
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\InstrumentService_DataAccess.genruntimeconfig.cache
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_DataAccess\obj\Debug\net7.0\ref\InstrumentService_DataAccess.dll

@@ -1,0 +1,12 @@
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Models\bin\Debug\net7.0\PirozhkiService_Models.deps.json
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Models\bin\Debug\net7.0\PirozhkiService_Models.dll
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Models\bin\Debug\net7.0\PirozhkiService_Models.pdb
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Models\obj\Debug\net7.0\PirozhkiService_Models.csproj.AssemblyReference.cache
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Models\obj\Debug\net7.0\PirozhkiService_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Models\obj\Debug\net7.0\PirozhkiService_Models.AssemblyInfoInputs.cache
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Models\obj\Debug\net7.0\PirozhkiService_Models.AssemblyInfo.cs
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Models\obj\Debug\net7.0\PirozhkiService_Models.csproj.CoreCompileInputs.cache
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Models\obj\Debug\net7.0\PirozhkiService_Models.dll
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Models\obj\Debug\net7.0\refint\PirozhkiService_Models.dll
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Models\obj\Debug\net7.0\PirozhkiService_Models.pdb
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Models\obj\Debug\net7.0\ref\PirozhkiService_Models.dll

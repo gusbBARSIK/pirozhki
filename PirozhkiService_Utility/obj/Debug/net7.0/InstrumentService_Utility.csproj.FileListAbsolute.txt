@@ -1,0 +1,12 @@
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Utility\bin\Debug\net7.0\InstrumentService_Utility.deps.json
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Utility\bin\Debug\net7.0\InstrumentService_Utility.dll
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Utility\bin\Debug\net7.0\InstrumentService_Utility.pdb
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Utility\obj\Debug\net7.0\InstrumentService_Utility.csproj.AssemblyReference.cache
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Utility\obj\Debug\net7.0\InstrumentService_Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Utility\obj\Debug\net7.0\InstrumentService_Utility.AssemblyInfoInputs.cache
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Utility\obj\Debug\net7.0\InstrumentService_Utility.AssemblyInfo.cs
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Utility\obj\Debug\net7.0\InstrumentService_Utility.csproj.CoreCompileInputs.cache
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Utility\obj\Debug\net7.0\InstrumentService_Utility.dll
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Utility\obj\Debug\net7.0\refint\InstrumentService_Utility.dll
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Utility\obj\Debug\net7.0\InstrumentService_Utility.pdb
+C:\Users\Kir\Desktop\ProjectFix-master\InstrumentService_Utility\obj\Debug\net7.0\ref\InstrumentService_Utility.dll
